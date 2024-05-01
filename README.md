@@ -26,7 +26,7 @@
   <div align="center"><figcaption><strong>Fig. 2: Model Training History.</strong></figcaption></div>
 </p>
 
-## Training
+## Samples
 ```py
 query = ["سرمربی تیم ملی", 19]
 string_ = Prediction(query)
