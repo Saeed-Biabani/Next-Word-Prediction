@@ -21,7 +21,7 @@
 
 ## Training
 <p align="center">
-  <div align="center"><img src="assets/model_history.png"></div>
+  <div align="center"><img src="model_history.png"></div>
   <div align="center"><figcaption><strong>Fig. 2: Model Training History.</strong></figcaption></div>
 </p>
 
